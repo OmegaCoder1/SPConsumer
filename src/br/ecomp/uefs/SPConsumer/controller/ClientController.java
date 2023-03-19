@@ -1,5 +1,5 @@
 package br.ecomp.uefs.SPConsumer.controller;
 
-public class Controller {
+public class ClientController {
     
 }
